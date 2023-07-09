@@ -12,13 +12,13 @@ if a=="dkfkfkfjfkfjdj"then
 _G.she=true
 elseif a=="ljgjhfsfhcdf"then
 _G.she=true
-elseif a=="用户名"then
+elseif a=="DXH_YYDS"then
 _G.she=true
-elseif a=="用户名"then
+elseif a=="EXXeovev"then
 _G.she=true
-elseif a=="用户名"then
+elseif a=="wpm_kwpd"then
 _G.she=true
-elseif a=="用户名"then
+elseif a=="erth6645"then
 _G.she=true
 elseif a=="用户名"then
 _G.she=true
