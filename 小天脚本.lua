@@ -30,6 +30,22 @@ elseif a=="用户名"then
 _G.she=true
 elseif a=="用户名"then
 _G.she=true
+elseif a=="用户名"then
+_G.she=true
+elseif a=="用户名"then
+_G.she=true
+elseif a=="用户名"then
+_G.she=true
+elseif a=="用户名"then
+_G.she=true
+elseif a=="用户名"then
+_G.she=true
+elseif a=="用户名"then
+_G.she=true
+elseif a=="用户名"then
+_G.she=true
+elseif a=="用户名"then
+_G.she=true
 end
 if _G.she==true then
     local CoreGui = game:GetService("StarterGui")
