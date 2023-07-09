@@ -20,7 +20,7 @@ elseif a=="wpm_kwpd"then
 _G.she=true
 elseif a=="erth6645"then
 _G.she=true
-elseif a=="用户名"then
+elseif a=="321ewq1q"then
 _G.she=true
 elseif a=="用户名"then
 _G.she=true
